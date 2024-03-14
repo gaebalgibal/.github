@@ -6,7 +6,7 @@
 | 이름 | username |
 | --- | --- |
 | 김지수 | [itsthejisoo](https://github.com/itsthejisoo)|
-| 백승연 | |
+| 백승연 | [tmddus7776](https://github.com/tmddus7776)|
 | 한승연 |  |
 | 김규연 |  |
 | 권채린 | [chaelink](https://github.com/chaelink)|
