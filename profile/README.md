@@ -4,12 +4,12 @@
 
 ### 구성원🙋‍♀️
 | 이름 | username | repository |
-| --- | --- |
-| 김지수 | [itsthejisoo](https://github.com/itsthejisoo)| [📒 Repository 바로가기](https://github.com/gaebalgibal/js_algorithm)
-| 백승연 | [tmddus7776](https://github.com/tmddus7776)|
-| 한승연 |  |
-| 김규연 |  |
-| 권채린 | [chaelink](https://github.com/chaelink)|
+| --- | --- | ---|
+| 김지수 | [itsthejisoo](https://github.com/itsthejisoo)| [📒 Repository 바로가기](https://github.com/gaebalgibal/js_algorithm) |
+| 백승연 | [tmddus7776](https://github.com/tmddus7776)||
+| 한승연 |  | |
+| 김규연 |  | |
+| 권채린 | [chaelink](https://github.com/chaelink)| |
 
 
 <!--
