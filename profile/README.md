@@ -6,10 +6,10 @@
 | 이름 | username | repository |
 | --- | --- | ---|
 | 김지수 | [itsthejisoo](https://github.com/itsthejisoo)| [📒 Repository ](https://github.com/gaebalgibal/js_algorithm) |
-| 백승연 | [tmddus7776](https://github.com/tmddus7776)|[ 📒 Repository ](https://github.com/chaelink/Algorithm-Study)|
+| 백승연 | [tmddus7776](https://github.com/tmddus7776)| |
 | 한승연 |  | |
 | 김규연 |  | |
-| 권채린 | [chaelink](https://github.com/chaelink)| |
+| 권채린 | [chaelink](https://github.com/chaelink)| [📒 Repository ](https://github.com/chaelink/Algorithm-Study)|
 
 
 <!--
